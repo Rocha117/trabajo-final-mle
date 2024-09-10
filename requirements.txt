@@ -1,0 +1,10 @@
+pmdarima
+warnings
+itertools
+numpy
+matplotlib
+pandas
+statsmodels
+seaborn
+random
+sklearn
